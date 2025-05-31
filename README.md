@@ -7,6 +7,11 @@ Just a collection of aesthetically-pleasing dotfiles from across the Gitverse
 ### [Saimoomedits: Dotfiles](https://github.com/saimoomedits/dotfiles) 
 ![image](https://github.com/user-attachments/assets/781b1bef-2414-4189-b4cc-90a0360282ee)
 
+### [Namishh: Crystal](https://github.com/namishh/crystal)
+![image](https://github.com/user-attachments/assets/e8a5695b-8514-4dbc-ba3d-774930512aff)
+
+
+
 
 ## Hyprland
 
@@ -21,4 +26,10 @@ Just a collection of aesthetically-pleasing dotfiles from across the Gitverse
 
 ### [AXWTV: Hyprland-Dotfiles](https://github.com/AXWTV/Hyprland-DotFiles)
 
+### [shu8h0-null: HyprNest](https://github.com/shu8h0-null/HyprNest)
+![image](https://github.com/user-attachments/assets/8ef6617f-761e-4d5f-b1cf-df6dc7db5e8c)
+
+### [Satoxyan: HyprWNC](https://github.com/Satoxyan/HyprWNC)
+![image](https://github.com/user-attachments/assets/e85970f9-9925-402d-a6ac-440d5fd8aee5)
+![image](https://github.com/user-attachments/assets/391c91cc-3c35-4d8f-a35b-3d81cdd16dc0)
 
