@@ -1,15 +1,18 @@
-# Awesome-Dots
-Just a collection of aesthetically-pleasing dotfiles from across the Gitverse 
+  # Awesome-Dots
+Just a collection of aesthetically-pleasing dotfiles from across the Gitverse
 
 
  ## AwesomeWM
-  
+ 
 ### [Saimoomedits: Dotfiles](https://github.com/saimoomedits/dotfiles) 
 ![image](https://github.com/user-attachments/assets/781b1bef-2414-4189-b4cc-90a0360282ee)
 
 ### [Namishh: Crystal](https://github.com/namishh/crystal)
 ![image](https://github.com/user-attachments/assets/e8a5695b-8514-4dbc-ba3d-774930512aff)
 
+### [Raexera: Yoru (Archived of Oct '24)](https://github.com/raexera/yoru)
+![image](https://github.com/user-attachments/assets/fececb91-457f-4328-b6ad-2db2701dd50f)
+![image](https://github.com/user-attachments/assets/952ce651-711c-44e5-b862-67c2bd74a9ae)
 
 
 
