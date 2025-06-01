@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e019ed4-955c-4ad8-b2b0-e4453d705dc2)  # Awesome-Dots
+  # Awesome-Dots
 Just a collection of aesthetically-pleasing dotfiles from across the Gitverse
 
 
@@ -28,7 +28,6 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
 ### [AXWTV: Hyprland-Dotfiles](https://github.com/AXWTV/Hyprland-DotFiles)
 ![Screenshot_2025-06-01_17 35 12](https://github.com/user-attachments/assets/eb7f60cf-6791-4399-917e-4fb0e6962db6)
-
 _________________________________________________________________________________________
 ### [shu8h0-null: HyprNest](https://github.com/shu8h0-null/HyprNest)
 ![image](https://github.com/user-attachments/assets/8ef6617f-761e-4d5f-b1cf-df6dc7db5e8c)
