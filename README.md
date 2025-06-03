@@ -41,4 +41,12 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/06b9ae67-7868-4900-9f42-4cd6c219787b)
 ![image](https://github.com/user-attachments/assets/e4dd47a5-9fb8-4b7b-8b31-d9391d517a7e)
 _________________________________________________________________________________________
+### [Shell-Ninja: HyprConf](https://github.com/shell-ninja/hyprconf)
+![image](https://github.com/user-attachments/assets/89594a1e-5963-402e-bbde-2fee8fb16e6b)
+    [As this is quite an involved config with multiple files, ShellNinja has this repo for a fully automated install](https://github.com/shell-ninja/hyprconf-install?tab=readme-ov-file#install)
+![image](https://github.com/user-attachments/assets/6fdee1af-b932-41ee-9c35-c10339c53b72)
+_____________________________________________________________________________________________
+## [sbalghari:HyprDots](https://github.com/sbalghari/HyprDots)
+![image](https://github.com/user-attachments/assets/28d08bcd-54cc-4ddc-9b15-ac5af5d5d3d5)
+
 
