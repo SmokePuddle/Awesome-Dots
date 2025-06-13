@@ -13,6 +13,10 @@ ________________________________________________________________________________
 ### [Raexera: Yoru (Archived of Oct '24)](https://github.com/raexera/yoru)
 ![image](https://github.com/user-attachments/assets/fececb91-457f-4328-b6ad-2db2701dd50f)
 
+## Niri
+### [hengtseChou: Niri Setup](https://github.com/hengtseChou/niri-setup?tab=readme-ov-file)
+![image](https://github.com/user-attachments/assets/5aebe7bf-7499-41bb-b226-7b6a1877d32d)
+![image](https://github.com/user-attachments/assets/32fa4267-3b96-4c86-ac3f-ce79c4e7e7ca)
 
 
 ## Hyprland
