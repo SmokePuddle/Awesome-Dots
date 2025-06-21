@@ -30,7 +30,7 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/8cc47082-0a7a-473c-b091-ed9c62ef2ca2)
 ![image](https://github.com/user-attachments/assets/ecf4fac4-e01f-446d-860e-af9609e54768)
 _________________________________________________________________________________________
-### [AXWTV: Hyprland-Dotfiles](https://github.com/AXWTV/Hyprland-DotFiles)
+### [📜AXWTV: Hyprland-Dotfiles](https://github.com/AXWTV/Hyprland-DotFiles)
 ![Screenshot_2025-06-01_17 35 12](https://github.com/user-attachments/assets/eb7f60cf-6791-4399-917e-4fb0e6962db6)
 _________________________________________________________________________________________
 ### [shu8h0-null: HyprNest](https://github.com/shu8h0-null/HyprNest)
@@ -40,7 +40,7 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/e85970f9-9925-402d-a6ac-440d5fd8aee5)
 ![image](https://github.com/user-attachments/assets/391c91cc-3c35-4d8f-a35b-3d81cdd16dc0)
 _________________________________________________________________________________________
-### [S4NKALP: Modus Shell](https://github.com/S4NKALP/Modus)
+### [📜S4NKALP: Modus Shell](https://github.com/S4NKALP/Modus)
 ![image](https://github.com/user-attachments/assets/38c43f49-d793-4274-8f08-353406115de0)
 ![image](https://github.com/user-attachments/assets/06b9ae67-7868-4900-9f42-4cd6c219787b)
 ![image](https://github.com/user-attachments/assets/e4dd47a5-9fb8-4b7b-8b31-d9391d517a7e)
@@ -50,7 +50,13 @@ ________________________________________________________________________________
     [As this is quite an involved config with multiple files, ShellNinja has this repo for a fully automated install](https://github.com/shell-ninja/hyprconf-install?tab=readme-ov-file#install)
 ![image](https://github.com/user-attachments/assets/6fdee1af-b932-41ee-9c35-c10339c53b72)
 _____________________________________________________________________________________________
-## [sbalghari:HyprDots](https://github.com/sbalghari/HyprDots)
+### [sbalghari:HyprDots](https://github.com/sbalghari/HyprDots)
 ![image](https://github.com/user-attachments/assets/28d08bcd-54cc-4ddc-9b15-ac5af5d5d3d5)
+
+### [📜namnam1105: Hypr-Dotfiles](https://github.com/GlassPuddle/Awesome-Dots/)
+ Don't hate me for LOVING gruvbox, it's so relaxing!
+ ![image](https://github.com/user-attachments/assets/a843ff9d-4c23-4220-9ead-49b350913c1f)
+ ![image](https://github.com/user-attachments/assets/f1134ba2-9551-421b-bde6-662b51347270)
+ ![image](https://github.com/user-attachments/assets/c005699a-3051-4c8a-9aeb-deacdea44716)
 
 
