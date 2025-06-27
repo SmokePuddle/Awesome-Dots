@@ -1,19 +1,20 @@
-# Awesome-Dots
-Just a collection of pretty custom desktop/Window Manager dotfiles to use as inspiration for your next project.
- This list is a WIP! New projects added regularly. 
+# Awesome-Dots: Just a collection of pretty custom desktop/Window Manager dotfiles to use as inspiration for your next project.
+
+### Note: Some of these repositories offer useful install scripts; it is generally better to use them as a reference point while writing your own configurations.
+If you decide to use an install script: be sure to follow all provided instructions, ensure all relevant packages are installed, and (most importantly) BACK UP YOUR SYSTEM BEFORE EXECUTING!
+While more often than not these scripts are safe, always proceed with caution 😊
+These dotfiles are written by individuals like yourself, please do not hassle them with endless support requests. If you face problems, add an issue to the repository and wait patiently for assistance. 
+
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 ## CONTENTS:
 Use this contents table (or the hamburger icon on the left-hand side!) to jump to a specific WM.
 1. [AwesomeWM](https://github.com/GlassPuddle/Awesome-Dots/blob/main/README.md#awesomewm---as-the-name-suggests-an-awesome-x11-window-manager-wayland-support-via-third-party-packages)
 2. [Hyprland](https://github.com/GlassPuddle/Awesome-Dots/blob/main/README.md#hyprland---the-wayland-wm-for-riceheads-as-seen-on-every-second-runixporn-post)
 3. [Niri](https://github.com/GlassPuddle/Awesome-Dots#niri---waylands-favourite-scrolling-windowmanager)
-4. [SwayFX](https://github.com/GlassPuddle/Awesome-Dots#swayfx)
+4. [SwayFX](https://github.com/GlassPuddle/Awesome-Dots?tab=readme-ov-file#swayfx---like-sway-but-fun-to-look-at)
+This list is a WIP! New projects added regularly.
 
-
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
-Note: while some of these dotfile repositories offer useful install scripts; it is generally better to use them as a reference point while writing your own configurations.
-If you decide on using an install script, be sure to follow all provided instructions, ensure all relevant packages are installed, and (most importantly) BACK UP YOUR SYSTEM BEFORE EXECUTING!
-While more often than not, these scripts are safe, when using scripts from the internet always proceed with caution 😊
-Dotfiles uploaded to git sites are written by individuals like yourself, please do not hassle them with endless support requests. If you face problems, add an issue to the repository and wait patiently for assistance.
 __________________________________________________________________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________
  ## [AwesomeWM](https://github.com/awesomeWM/awesome) - As the name suggests; an Awesome x11 Window Manager. Wayland support via third party packages
