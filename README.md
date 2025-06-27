@@ -4,6 +4,9 @@ Note: while some of these dotfile repositories offer useful Install Scripts; it 
 
 Dotfiles uploaded to git sites are written individuals just like yourself, please do not hassle the uploaders with support requests. If you face problems, add an issue to the repository and wait patiently for assistance.
 
+CONTENTS - Click to jump to the WM of your choice!
+1. [AwesomeWM](https://github.com/GlassPuddle/Awesome-Dots/blob/main/README.md#awesomewm---as-the-name-suggests-an-awesome-x11-window-manager-wayland-support-via-third-party-packages)
+2. [Hyprland](https://github.com/GlassPuddle/Awesome-Dots/blob/main/README.md#hyprland---the-wayland-wm-for-riceheads-as-seen-on-every-second-runixporn-post)
 
  ## [AwesomeWM](https://github.com/awesomeWM/awesome) - As the name suggests; an Awesome x11 Window Manager. Wayland support via third party packages
  
@@ -62,7 +65,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________
 
 
-## [Niri](https://github.com/YaLTeR/niri)Wayland's Favourite Scrolling WindowManager.
+## [Niri](https://github.com/YaLTeR/niri) - Wayland's Favourite Scrolling WindowManager.
 
 ### [Niri Setup by hengtseChou](https://github.com/hengtseChou/niri-setup?tab=readme-ov-file)
 ![image](https://github.com/user-attachments/assets/5aebe7bf-7499-41bb-b226-7b6a1877d32d)
