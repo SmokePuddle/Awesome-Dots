@@ -1,15 +1,18 @@
 # Awesome-Dots
-Just a collection of aesthetically-pleasing dotfiles to give you inspiration for your next WindowManager/Desktop Rice
-Note: while some of these dotfile repositories offer useful Install Scripts; it is generally better to use them as a reference point while writing your own configurations. If you decide on using an install script, be sure to follow all provided instructions, ensure all relevant packages installed and (most importantly) BACK UP YOUR SYSTEM BEFORE EXECUTING! While more-often-than-not these scripts are safe, always use them with caution 😊
+Just a collection of pretty custom desktop/Window Manager dotfiles to use as inspiration for your next project. ##WIP! New projects added constantly. 
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+Note: while some of these dotfile repositories offer useful install scripts; it is generally better to use them as a reference point while writing your own configurations.
+If you decide on using an install script, be sure to follow all provided instructions, ensure all relevant packages are installed, and (most importantly) BACK UP YOUR SYSTEM BEFORE EXECUTING!
+While more often than not, these scripts are safe, when using scripts from the internet always proceed with caution 😊
+Dotfiles uploaded to git sites are written by individuals like yourself, please do not hassle them with endless support requests. If you face problems, add an issue to the repository and wait patiently for assistance.
 
-Dotfiles uploaded to git sites are written individuals just like yourself, please do not hassle the uploaders with support requests. If you face problems, add an issue to the repository and wait patiently for assistance.
-
-CONTENTS - Click to jump to the WM of your choice!
+## CONTENTS - Use this contents table (or the hamburger icon on the left-hand side!) to jump to a specific WM.
 1. [AwesomeWM](https://github.com/GlassPuddle/Awesome-Dots/blob/main/README.md#awesomewm---as-the-name-suggests-an-awesome-x11-window-manager-wayland-support-via-third-party-packages)
 2. [Hyprland](https://github.com/GlassPuddle/Awesome-Dots/blob/main/README.md#hyprland---the-wayland-wm-for-riceheads-as-seen-on-every-second-runixporn-post)
-
+3. [Niri](https://github.com/GlassPuddle/Awesome-Dots#niri---waylands-favourite-scrolling-windowmanager)
+__________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________
  ## [AwesomeWM](https://github.com/awesomeWM/awesome) - As the name suggests; an Awesome x11 Window Manager. Wayland support via third party packages
- 
 ### [Dotfiles by Saimoomedits](https://github.com/saimoomedits/dotfiles) 
 ![image](https://github.com/user-attachments/assets/781b1bef-2414-4189-b4cc-90a0360282ee)
 _________________________________________________________________________________________
@@ -63,8 +66,13 @@ ________________________________________________________________________________
  ![image](https://github.com/user-attachments/assets/f1134ba2-9551-421b-bde6-662b51347270)
  ![image](https://github.com/user-attachments/assets/c005699a-3051-4c8a-9aeb-deacdea44716)
 _________________________________________________________________________________________
+### [Dotfiles v1 by k4ahr](https://github.com/k4ahr/dotfiles?tab=readme-ov-file)
+Note: These dotfiles have been replaced by K4ahrs "v2" dotfiles, but I prefer the look of these. No support will be available if used.
+![image](https://github.com/user-attachments/assets/3854650a-afd6-4cbe-8a9b-6107296c2249)
+![image](https://github.com/user-attachments/assets/0e4bfd31-0ba2-4802-911e-c7bf6d775c71)
 
-
+_________________________________________________________________________________________
+_________________________________________________________________________________________
 ## [Niri](https://github.com/YaLTeR/niri) - Wayland's Favourite Scrolling WindowManager.
 
 ### [Niri Setup by hengtseChou](https://github.com/hengtseChou/niri-setup?tab=readme-ov-file)
@@ -77,4 +85,7 @@ ________________________________________________________________________________
 ### [Dotfiles by eeriemyxi](https://github.com/eeriemyxi/dotfiles)
 ![image](https://github.com/user-attachments/assets/c38da470-56d4-4e52-a375-4109f7c6e377)
 ![image](https://github.com/user-attachments/assets/a2f1e254-61b1-4798-a09f-1e650e973f9e)
+_________________________________________________________________________________________
+### [Dots by shelepuginivan](https://github.com/shelepuginivan/dotfiles)
+![image](https://github.com/user-attachments/assets/236ad5f0-de03-47c4-86e8-34120896190f)
 
