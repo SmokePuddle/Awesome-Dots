@@ -1,4 +1,4 @@
-# Awesome-Dots: Just a collection of pretty custom desktop/Window Manager dotfiles to use as inspiration for your next project.
+# Awesome-Dots: Just a collection of pretty Window Manager dotfiles to use as inspiration for your next Ricing project.
 
 ### Note: Some of these repositories offer useful install scripts; it is generally better to use them as a reference point while writing your own configurations.
 If you decide to use an install script: be sure to follow all provided instructions, ensure all relevant packages are installed, and (most importantly) BACK UP YOUR SYSTEM BEFORE EXECUTING!
@@ -13,6 +13,8 @@ Use this contents table (or the hamburger icon on the left-hand side!) to jump t
 2. [Hyprland](https://github.com/GlassPuddle/Awesome-Dots/blob/main/README.md#hyprland---the-wayland-wm-for-riceheads-as-seen-on-every-second-runixporn-post)
 3. [Niri](https://github.com/GlassPuddle/Awesome-Dots#niri---waylands-favourite-scrolling-windowmanager)
 4. [SwayFX](https://github.com/GlassPuddle/Awesome-Dots?tab=readme-ov-file#swayfx---like-sway-but-fun-to-look-at)
+5. 
+   
 This list is a WIP! New projects added regularly.
 
 __________________________________________________________________________________________________________________________________________________________________________________
