@@ -1,5 +1,5 @@
 # Awesome-Dots
-Just a collection of pretty custom desktop/Window Manager dotfiles to use as inspiration for your next project. ##WIP! New projects added constantly. 
+Just a collection of pretty custom desktop/Window Manager dotfiles to use as inspiration for your next project. ## WIP! New projects added constantly. 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 Note: while some of these dotfile repositories offer useful install scripts; it is generally better to use them as a reference point while writing your own configurations.
 If you decide on using an install script, be sure to follow all provided instructions, ensure all relevant packages are installed, and (most importantly) BACK UP YOUR SYSTEM BEFORE EXECUTING!
