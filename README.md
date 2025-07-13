@@ -20,6 +20,7 @@ This list is a WIP! New projects added regularly.
 __________________________________________________________________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________
  ## [AwesomeWM](https://github.com/awesomeWM/awesome) - As the name suggests; an Awesome x11 Window Manager. Wayland support via third party packages
+ 
 ### [Dotfiles by Saimoomedits](https://github.com/saimoomedits/dotfiles) 
 ![image](https://github.com/user-attachments/assets/781b1bef-2414-4189-b4cc-90a0360282ee)
 _________________________________________________________________________________________
@@ -27,24 +28,25 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/e8a5695b-8514-4dbc-ba3d-774930512aff)
 _________________________________________________________________________________________
 ### [Yoru by Raexera](https://github.com/raexera/yoru)
-If you intend to copy these exactly, be aware Raexera archived them in Oct '24, don't expect ongoing support :)
+⚠️: If you intend to copy these exactly, be aware Raexera archived them in Oct '24, don't expect ongoing support :)
 ![image](https://github.com/user-attachments/assets/fececb91-457f-4328-b6ad-2db2701dd50f)
 _________________________________________________________________________________________
 ### [Crylia Theme by Crylia](https://github.com/Crylia/crylia-theme)
 ![image](https://github.com/user-attachments/assets/8a7d57b5-6049-4379-8d88-64c3cf87f83b)
 ![image](https://github.com/user-attachments/assets/d948110c-954e-4a81-9168-380cb292ffb2)
 _________________________________________________________________________________________
-_________________________________________________________________________________________
 
 ## Hyprland - The Wayland WM for RiceHeads (as seen on every second r/unixporn post)
+
 ### [Colourshell by Retrozinndev](https://github.com/retrozinndev/colorshell)
 ![image](https://github.com/user-attachments/assets/529a5372-2f36-43bc-b70d-f85f37941af3)
 ![image](https://github.com/user-attachments/assets/717d9549-e419-4a31-a1bf-1af78aa7f136)
 ![image](https://github.com/user-attachments/assets/ede55d18-6f6d-4c81-91f4-a18cbe17fc28)
 _________________________________________________________________________________________
-### [Dotties by ohSystemmm](https://github.com/ohSystemmm/ohSystemmm-doties)
-![image](https://github.com/user-attachments/assets/8cc47082-0a7a-473c-b091-ed9c62ef2ca2)
-![image](https://github.com/user-attachments/assets/ecf4fac4-e01f-446d-860e-af9609e54768)
+### [Dotfiles by Elifouts](https://github.com/elifouts/Dotfiles?tab=readme-ov-file)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/64c8c969-b8c3-4bc4-a9e4-769328313209" />
+<img width="2560" height="65" alt="image" src="https://github.com/user-attachments/assets/72b51d6b-87ec-489f-96bc-ced84d3f22e4" />
+⚠️: According to users on unixp*rn discord, the install script is currently not reccommended
 _________________________________________________________________________________________
 ### [📜Hyprland-Dotfiles by AXWTV](https://github.com/AXWTV/Hyprland-DotFiles)
 ![Screenshot_2025-06-01_17 35 12](https://github.com/user-attachments/assets/eb7f60cf-6791-4399-917e-4fb0e6962db6)
