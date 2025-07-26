@@ -43,11 +43,7 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/717d9549-e419-4a31-a1bf-1af78aa7f136)
 ![image](https://github.com/user-attachments/assets/ede55d18-6f6d-4c81-91f4-a18cbe17fc28)
 _________________________________________________________________________________________
-### [Dotfiles by Elifouts](https://github.com/elifouts/Dotfiles?tab=readme-ov-file)
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/64c8c969-b8c3-4bc4-a9e4-769328313209" />
-<img width="2560" height="65" alt="image" src="https://github.com/user-attachments/assets/72b51d6b-87ec-489f-96bc-ced84d3f22e4" />
-⚠️: According to users on unixp*rn discord, the install script is currently not reccommended
-_________________________________________________________________________________________
+
 ### [📜Hyprland-Dotfiles by AXWTV](https://github.com/AXWTV/Hyprland-DotFiles)
 ![Screenshot_2025-06-01_17 35 12](https://github.com/user-attachments/assets/eb7f60cf-6791-4399-917e-4fb0e6962db6)
 _________________________________________________________________________________________
@@ -95,6 +91,11 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/c38da470-56d4-4e52-a375-4109f7c6e377)
 ![image](https://github.com/user-attachments/assets/a2f1e254-61b1-4798-a09f-1e650e973f9e)
 _________________________________________________________________________________________
+### [Noctalia by Ly-sec](https://github.com/Ly-sec/Noctalia)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/201e0f5e-cdbb-414e-93bc-f38a76edc5e8" />
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ea004a6c-9dd7-4cfe-8c0d-4e02ce49e344" />
+_________________________________________________________________________________________
+
 ### [Dots by shelepuginivan](https://github.com/shelepuginivan/dotfiles)
 ![image](https://github.com/user-attachments/assets/236ad5f0-de03-47c4-86e8-34120896190f)
 
