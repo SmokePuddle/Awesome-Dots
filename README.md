@@ -1,4 +1,4 @@
-# Awesome-Dots: Just a collection of pretty Window Manager dotfiles to use as inspiration for your next Ricing project.
+# Pretty-Nice-Dots: Just a collection of Pretty Window Manager dotfiles to use as inspiration for your next Ricing project.
 
 ### Note: Some of these repositories offer useful install scripts; it is generally better to use them as a reference point while writing your own configurations.
 If you decide to use an install script: be sure to follow all provided instructions, ensure all relevant packages are installed, and (most importantly) BACK UP YOUR SYSTEM BEFORE EXECUTING!
@@ -20,7 +20,10 @@ This list is a WIP! New projects added regularly.
 __________________________________________________________________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________________
  ## [AwesomeWM](https://github.com/awesomeWM/awesome) - As the name suggests; an Awesome x11 Window Manager. Wayland support via third party packages
- 
+
+### [KwesomeDE by Kasper24](https://github.com/Kasper24/KwesomeDE)
+<img width="3440" height="1440" alt="image" src="https://github.com/user-attachments/assets/fa74cd55-0bc7-40d8-9e60-2035a3fa6928" />
+_________________________________________________________________________________________
 ### [Dotfiles by Saimoomedits](https://github.com/saimoomedits/dotfiles) 
 ![image](https://github.com/user-attachments/assets/781b1bef-2414-4189-b4cc-90a0360282ee)
 _________________________________________________________________________________________
@@ -34,7 +37,8 @@ ________________________________________________________________________________
 ### [Crylia Theme by Crylia](https://github.com/Crylia/crylia-theme)
 ![image](https://github.com/user-attachments/assets/8a7d57b5-6049-4379-8d88-64c3cf87f83b)
 ![image](https://github.com/user-attachments/assets/d948110c-954e-4a81-9168-380cb292ffb2)
-_________________________________________________________________________________________
+
+==========================================================================================
 
 ## Hyprland - The Wayland WM for RiceHeads (as seen on every second r/unixporn post)
 
@@ -43,14 +47,13 @@ ________________________________________________________________________________
 ![image](https://github.com/user-attachments/assets/717d9549-e419-4a31-a1bf-1af78aa7f136)
 ![image](https://github.com/user-attachments/assets/ede55d18-6f6d-4c81-91f4-a18cbe17fc28)
 _________________________________________________________________________________________
-
 ### [📜Hyprland-Dotfiles by AXWTV](https://github.com/AXWTV/Hyprland-DotFiles)
 ![Screenshot_2025-06-01_17 35 12](https://github.com/user-attachments/assets/eb7f60cf-6791-4399-917e-4fb0e6962db6)
 _________________________________________________________________________________________
 ### [HyprNest by shu8h0-null](https://github.com/shu8h0-null/HyprNest)
 ![image](https://github.com/user-attachments/assets/8ef6617f-761e-4d5f-b1cf-df6dc7db5e8c)
 _________________________________________________________________________________________
-### [HyprWNCby Satoxyan](https://github.com/Satoxyan/HyprWNC)
+### [HyprWNC by Satoxyan](https://github.com/Satoxyan/HyprWNC)
 ![image](https://github.com/user-attachments/assets/e85970f9-9925-402d-a6ac-440d5fd8aee5)
 ![image](https://github.com/user-attachments/assets/391c91cc-3c35-4d8f-a35b-3d81cdd16dc0)
 _________________________________________________________________________________________
@@ -76,8 +79,8 @@ Note: These dotfiles have been replaced by K4ahrs "v2" dotfiles, but I prefer th
 ![image](https://github.com/user-attachments/assets/3854650a-afd6-4cbe-8a9b-6107296c2249)
 ![image](https://github.com/user-attachments/assets/0e4bfd31-0ba2-4802-911e-c7bf6d775c71)
 
-_________________________________________________________________________________________
-_________________________________________________________________________________________
+=========================================================================================
+
 ## [Niri](https://github.com/YaLTeR/niri) - Wayland's Favourite Scrolling WindowManager.
 
 ### [Niri Setup by hengtseChou](https://github.com/hengtseChou/niri-setup?tab=readme-ov-file)
@@ -95,10 +98,8 @@ ________________________________________________________________________________
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/201e0f5e-cdbb-414e-93bc-f38a76edc5e8" />
 <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/ea004a6c-9dd7-4cfe-8c0d-4e02ce49e344" />
 _________________________________________________________________________________________
-
 ### [Dots by shelepuginivan](https://github.com/shelepuginivan/dotfiles)
 ![image](https://github.com/user-attachments/assets/236ad5f0-de03-47c4-86e8-34120896190f)
-
 _________________________________________________________________________________________
 _________________________________________________________________________________________
 ## [SwayFX](https://github.com/WillPower3309/swayfx) - Like Sway, but fun to look at!
